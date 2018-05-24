@@ -9,13 +9,13 @@
 			"value": "Standard_E2s_v3"
 		},
 		"infraVmSize": {
-			"value": "Standard_D4s_v3"
+			"value": "Standard_D2s_v3"
 		},
 		"nodeVmSize": {
-			"value": "Standard_D4s_v3"
+			"value": "Standard_D2s_v3"
 		},
 		"cnsVmSize": {
-			"value": "Standard_E4s_v3"
+			"value": "Standard_D2s_v3"
 		},
 		"storageKind": {
 			"value": "changeme"
